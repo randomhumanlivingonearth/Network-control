@@ -3,12 +3,6 @@ This is not a simple mod which adds a network for probes, basically you cant con
 
 
 It adds network control module by following script:
-
-using HarmonyLib;
-using SFS.Parts;
-using SFS.Parts.Modules;
-using UnityEngine;
-using System;
 ```
 namespace NetworkControlMod
 {
