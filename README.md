@@ -26,7 +26,7 @@ namespace NetworkControlMod
     }
 }
 ```
-you can ask me to add more names for your mod, if you need it.
+you can ask me to add more names for your custom part pack, if you need it.
 
 
 Please leave credits to me if you use the source code.
